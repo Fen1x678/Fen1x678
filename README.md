@@ -3,15 +3,15 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/39412620-be49-4361-8f0a-36047e77c8d7" alt="Project Demo" width="600"/>
   
-  ### 🎓 Студент МГТУ им. Н.Э. Баумана | Backend Developer
+  ### 🎓 Студент МГТУ им. Н.Э. Баумана | Full Stack Developer
   
-  *"Знаю, что это сложно, но мне легко!"* ⚡
+  *"Обожаю превращать сложные алгоритмы в элегантный и эффективный код!"* ⚡
 </div>
 
 ## 🚀 Обо мне
 Студент **МГТУ им. Н.Э. Баумана** на кафедре **ИУ5** (Информационные системы и технологии).  
-Backend-разработчик, для которого сложные задачи — это вызов, который я принимаю с удовольствием.  
-Обожаю превращать сложные алгоритмы в элегантный и эффективный код.
+Full Stack разработчик, который одинаково уверенно чувствует себя как на бэкенде, так и на фронтенде.  
+Сложные задачи — это вызов, который я принимаю с удовольствием. *Обожаю так!* 🔥
 
 ## 🛠️ Технологии и инструменты
 
@@ -20,7 +20,7 @@ Backend-разработчик, для которого сложные зада�
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -33,11 +33,12 @@ Backend-разработчик, для которого сложные зада�
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 🎯 Навыки
-- **Backend Development** (API, серверная логика, оптимизация)
-- **Базы данных** (проектирование, оптимизация запросов)
-- **Веб-разработка** (полный цикл)
-- **DevOps основы** (Docker, CI/CD)
-- **Работа в команде** (Git, code review)
+- **Full Stack Development** (от сервера до интерфейса)
+- **Backend**: API, серверная логика, оптимизация, архитектура
+- **Frontend**: адаптивная верстка, интерактивность, UX/UI
+- **Базы данных**: проектирование, оптимизация запросов
+- **DevOps основы**: Docker, CI/CD, деплой
+- **Работа в команде**: Git, code review, Agile
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -56,14 +57,15 @@ Backend-разработчик, для которого сложные зада�
 ---
 
 ## 🎯 Текущие цели
+- [ ] Разработать full-stack приложение с микросервисной архитектурой
 - [ ] Углубить знания в **Docker & Kubernetes**
-- [ ] Освоить **Microservices Architecture**
+- [ ] Освоить современные фронтенд-фреймворки (React/Vue)
 - [ ] Улучшить навыки в **System Design**
 - [ ] Участвовать в open-source проектах
-- [ ] Разработать собственный SaaS-проект
+- [ ] Создать собственный SaaS-проект
 
-## 💡 Философия кодинга
-> *"Хороший код — это не просто работающая программа. Это история, которую сможет прочитать любой разработчик."*
+## 💡 Философия разработки
+> *"Хороший разработчик — не тот, кто знает всё, а тот, кто умеет находить решения и учиться."*
 
 <div align="center">
   
@@ -71,11 +73,11 @@ Backend-разработчик, для которого сложные зада�
   
   <img src="https://github.com/user-attachments/assets/c4abc477-0f0b-48b1-897e-451d5702a0ff" alt="Code in Action" width="600"/>
   
-  ### 🚀 Код. Создавай. Вдохновляй.
+  ### 🚀 От идеи до реализации — полный цикл
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=Fe1nx678&color=blueviolet&style=flat-square)
   
-  *Последнее обновление: Январь 2026*
+  *Обожаю так! • Последнее обновление: Январь 2026*
   
 </div>
 
@@ -84,6 +86,8 @@ Backend-разработчик, для которого сложные зада�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="30" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" title="Docker" />
