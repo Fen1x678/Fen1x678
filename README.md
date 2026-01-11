@@ -13,18 +13,10 @@ Brief introduction about yourself or your projects...
 - Technology 3
 
 ## 📫 Connect with Me
-- GitHub: [@FeinX678](https://github.com/FeinX678)
-- Other contacts...
+- GitHub: [@Fe1nx678](https://github.com/FeinX678)
+- TG: [Fen1x678](https://t.me/Fen1x678)
+- Steam: [Fen1x](https://steamcommunity.com/id/Fen1x678/)
 
 ---
 
-## Project Demo
-This GIF demonstrates the main functionality of my project...
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Quick Tip
-Use **Control + Shift + n** to toggle the **tab** key moving focus. Alternatively, use **exec [then (ab)]** to move to the next interactive element on the page.
