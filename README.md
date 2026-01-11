@@ -1,7 +1,7 @@
 # Fe1nx678
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39412620-be49-4361-8f0a-36047e77c8d7" alt="Project Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Fe1nx678/Fe1nx678/main/assets/demo1.gif" alt="Project Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана | Full Stack Developer
   
@@ -71,7 +71,7 @@ Full Stack разработчик, который одинаково увере�
   
   ## 🔥 В действии
   
-  <img src="https://github.com/user-attachments/assets/c4abc477-0f0b-48b1-897e-451d5702a0ff" alt="Code in Action" width="600"/>
+  <img src="https://raw.githubusercontent.com/Fe1nx678/Fe1nx678/main/assets/demo2.gif" alt="Code in Action" width="600"/>
   
   ### 🚀 От идеи до реализации — полный цикл
   
