@@ -1,10 +1,7 @@
 # Fe1nx678
 
 <div align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="https://i.imgur.com/G2OqS2c.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
-  </video>
+  <img src="https://i.imgur.com/G2OqS2c.gif" alt="Project Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
@@ -65,10 +62,7 @@
   
   ## 🔥 В действии
   
-  <video width="600" autoplay loop muted playsinline>
-    <source src="https://i.imgur.com/LDB5ChU.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
-  </video>
+  <img src="https://i.imgur.com/LDB5ChU.gif" alt="Code in Action" width="600"/>
   
   ### 🚀 От идеи до реализации
   
