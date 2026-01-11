@@ -1,7 +1,11 @@
 # Fe1nx678
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/20b2d7b8-a0d5-4c7d-a52a-4facc3d631da" alt="Project Demo" width="600"/>
+  <!-- ПЕРВОЕ ВИДЕО -->
+  <video width="600" autoplay loop muted playsinline>
+    <source src="https://i.imgur.com/G2OqS2c.mp4" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
@@ -62,7 +66,11 @@
   
   ## 🔥 В действии
   
-  <img src="https://github.com/user-attachments/assets/6c57e1a0-5d12-4618-af24-010f7705bea9" alt="Code in Action" width="600"/>
+  <!-- ВТОРОЕ ВИДЕО -->
+  <video width="600" autoplay loop muted playsinline>
+    <source src="https://i.imgur.com/LDB5ChU.mp4" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
   
   ### 🚀 От идеи до реализации
   
