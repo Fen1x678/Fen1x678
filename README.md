@@ -52,7 +52,7 @@ Full Stack разработчик, который одинаково увере�
 - **GitHub**: [@Fe1nx678](https://github.com/Fe1nx678) 💻
 - **Telegram**: [@Fen1x678](https://t.me/Fen1x678) 📱
 - **Steam**: [Fen1x](https://steamcommunity.com/id/Fen1x678/) 🎮
-- **Бауманка**: ИУ5, МГТУ им. Н.Э. Баумана 🎓
+- **Обучение**: МГТУ им. Н.Э. Баумана . Кафедра ИУ5 🎓
 
 ---
 
