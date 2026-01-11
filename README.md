@@ -1,7 +1,7 @@
 # Fe1nx678
 
 <div align="center">
-  <img src="https://i.imgur.com/G2OqS2c.gif" alt="Project Demo" width="600"/>
+  <img src="https://github.com/user-attachments/assets/10043920-c99d-4c53-9f7a-04c572601b8e" alt="Git Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -59,10 +59,6 @@
 > *"Хороший разработчик — не тот, кто знает всё, а тот, кто умеет находить решения и учиться."*
 
 <div align="center">
-  
-  ## 🔥 В действии
-  
-  <img src="https://i.imgur.com/LDB5ChU.gif" alt="Code in Action" width="600"/>
   
   ### 🚀 От идеи до реализации
   
