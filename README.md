@@ -1,8 +1,7 @@
 # Fe1nx678
 
 <div align="center">
-  <!-- ЗАМЕНИТЕ ЭТУ ССЫЛКУ НА РАБОТАЮЩУЮ С ImgBB -->
-  <img src="https://i.ibb.co/ваш-код/demo1.gif" alt="Project Demo" width="600"/>
+  <img src="https://github.com/user-attachments/assets/20b2d7b8-a0d5-4c7d-a52a-4facc3d631da" alt="Project Demo" width="600"/>
   
   ### 🎓 Студент МГТУ им. Н.Э. Баумана
   
@@ -63,8 +62,7 @@
   
   ## 🔥 В действии
   
-  <!-- ЗАМЕНИТЕ ЭТУ ССЫЛКУ НА РАБОТАЮЩУЮ С ImgBB -->
-  <img src="https://i.ibb.co/ваш-код/demo2.gif" alt="Code in Action" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6c57e1a0-5d12-4618-af24-010f7705bea9" alt="Code in Action" width="600"/>
   
   ### 🚀 От идеи до реализации
   
