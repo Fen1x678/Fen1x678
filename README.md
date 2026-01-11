@@ -1,7 +1,7 @@
 # Fe1nx678
 
 <div align="center">
-  <!-- ПЕРВОЕ ВИДЕО -->
+  <[!-- ПЕРВОЕ ВИДЕО --](https://i.imgur.com/G2OqS2c.mp4)>
   <video width="600" autoplay loop muted playsinline>
     <source src="https://i.imgur.com/G2OqS2c.mp4" type="video/mp4">
     Ваш браузер не поддерживает видео.
@@ -66,7 +66,7 @@
   
   ## 🔥 В действии
   
-  <!-- ВТОРОЕ ВИДЕО -->
+  <[!-- ВТОРОЕ ВИДЕО --](https://i.imgur.com/LDB5ChU.mp4)>
   <video width="600" autoplay loop muted playsinline>
     <source src="https://i.imgur.com/LDB5ChU.mp4" type="video/mp4">
     Ваш браузер не поддерживает видео.
