@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195">
+  <style>
+    .title { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #A78BFA; }
+    .label { font: 400 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #C9D1D9; }
+    .value { font: 700 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+    .small { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #8B949E; }
+    .big { font: 800 26px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+    .row { animation: fadeIn .6s ease-out both; }
+    .ring { animation: draw 1.4s ease-out both; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes draw { from { stroke-dashoffset: 301.6; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .row, .ring { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1B2E"/>
+      <stop offset="1" stop-color="#14152A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#3178C6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="url(#cardBg)" stroke="#7F52FF" stroke-opacity=".35"/>
+  <text class="title" x="25" y="38">GitHub stats</text>
+  <g class="row" style="animation-delay: 0.15s"><circle cx="31" cy="67" r="5" fill="#FBBF24"/><text class="label" x="45" y="72">Total stars:</text><text class="value" x="250" y="72">—</text></g>
+  <g class="row" style="animation-delay: 0.30s"><circle cx="31" cy="92" r="5" fill="#A78BFA"/><text class="label" x="45" y="97">Commits (last year):</text><text class="value" x="250" y="97">—</text></g>
+  <g class="row" style="animation-delay: 0.45s"><circle cx="31" cy="117" r="5" fill="#34D399"/><text class="label" x="45" y="122">Pull requests:</text><text class="value" x="250" y="122">—</text></g>
+  <g class="row" style="animation-delay: 0.60s"><circle cx="31" cy="142" r="5" fill="#F472B6"/><text class="label" x="45" y="147">Issues:</text><text class="value" x="250" y="147">—</text></g>
+  <g class="row" style="animation-delay: 0.75s"><circle cx="31" cy="167" r="5" fill="#60A5FA"/><text class="label" x="45" y="172">Public repositories:</text><text class="value" x="250" y="172">—</text></g>
+  <circle cx="395" cy="112" r="48" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="9"/>
+  <circle class="ring" cx="395" cy="112" r="48" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-dasharray="301.6" transform="rotate(-90 395 112)"/>
+  <text class="big" x="395" y="118" text-anchor="middle">—</text>
+  <text class="small" x="395" y="182" text-anchor="middle">contributions in the last year</text>
+</svg>

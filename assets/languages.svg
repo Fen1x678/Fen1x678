@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 195" width="350" height="195">
+  <style>
+    .title { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #A78BFA; }
+    .label { font: 400 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #C9D1D9; }
+    .value { font: 700 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+    .small { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #8B949E; }
+    .big { font: 800 26px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+    .row { animation: fadeIn .6s ease-out both; }
+    .ring { animation: draw 1.4s ease-out both; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes draw { from { stroke-dashoffset: 301.6; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .row, .ring { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1B2E"/>
+      <stop offset="1" stop-color="#14152A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#3178C6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="349" height="194" rx="12" fill="url(#cardBg)" stroke="#7F52FF" stroke-opacity=".35"/>
+  <text class="title" x="25" y="38">Most used languages</text>
+  <text class="small" x="25" y="80">Updating…</text>
+</svg>

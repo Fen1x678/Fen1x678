@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Decorative footer wave">
+  <defs>
+    <!-- one colour period = 1200px, so drifting the waves by 1200px loops without a seam -->
+    <linearGradient id="fg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#3178C6"/>
+      <stop offset="0.5" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#3178C6"/>
+    </linearGradient>
+    <linearGradient id="fgBack" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="0.5" stop-color="#3178C6"/>
+      <stop offset="1" stop-color="#7F52FF"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .drift { animation: drift 16s linear infinite; }
+    .drift.slow { animation-duration: 24s; animation-direction: reverse; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) { .drift { animation: none; } }
+  </style>
+  <path class="drift slow" fill="url(#fgBack)" fill-opacity=".45" d="M0,52 Q150,22 300,52 T600,52 T900,52 T1200,52 T1500,52 T1800,52 T2100,52 T2400,52 L2400,150 L0,150 Z"/>
+  <path class="drift" fill="url(#fg)" d="M0,70 Q150,104 300,70 T600,70 T900,70 T1200,70 T1500,70 T1800,70 T2100,70 T2400,70 L2400,150 L0,150 Z"/>
+</svg>

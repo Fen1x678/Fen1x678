@@ -1,18 +1,15 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3178C6&height=190&section=header&text=Hi%2C%20I'm%20Fen1x&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20%26%20Mobile%20Developer%20%C2%B7%20BMSTU%20student&descSize=18&descAlignY=58" alt="Hi, I'm Fen1x" width="100%"/>
+  <img src="assets/header.svg" alt="Hi, I'm Fen1x. Full-stack & Mobile Developer, BMSTU student" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fen1x678">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full-stack+developer+%F0%9F%9A%80;iOS+%26+Android+apps+with+computer+vision+%F0%9F%93%B1;Django+REST+%2B+React+%2B+TypeScript+%F0%9F%92%BB;Turning+complex+algorithms+into+elegant+code+%E2%9A%A1" alt="Typing SVG"/>
-  </a>
+  <img src="assets/typing.svg" alt="Full-stack developer: Django + React / iOS & Android apps with computer vision / Sign language to text, live on camera / Turning complex algorithms into elegant code"/>
 </p>
 
 <p align="center">
   <a href="https://t.me/Fen1x678"><img src="https://img.shields.io/badge/Telegram-@Fen1x678-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://steamcommunity.com/id/Fen1x678/"><img src="https://img.shields.io/badge/Steam-Fen1x-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Fen1x678&color=7F52FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -180,13 +177,11 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fen1x678&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fen1x678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
+  <img src="assets/stats.svg" alt="GitHub stats" height="180"/>
+  <img src="assets/languages.svg" alt="Most used languages" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fen1x678&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+<p align="center"><sub>Cards are generated daily by a GitHub Action from public repositories.</sub></p>
 
 ---
 
@@ -209,7 +204,11 @@
 
 <p align="center"><b>🚀 From idea to implementation</b></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fen1x678&color=7F52FF&style=flat-square&label=Profile+views" alt="Profile views"/>
+</p>
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:7F52FF&height=110&section=footer" alt="" width="100%"/>
+  <img src="assets/footer.svg" alt="" width="100%"/>
 </p>

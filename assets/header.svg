@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Hi, I'm Fen1x. Full-stack and mobile developer, BMSTU student">
+  <defs>
+    <!-- one colour period = 1200px, so drifting the waves by 1200px loops without a seam -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="0.5" stop-color="#3178C6"/>
+      <stop offset="1" stop-color="#7F52FF"/>
+    </linearGradient>
+    <linearGradient id="bgBack" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#3178C6"/>
+      <stop offset="0.5" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#3178C6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 800 58px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; letter-spacing: 1px; }
+    .subtitle { font: 500 21px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; fill-opacity: .9; letter-spacing: .5px; }
+    .glyph { font: 700 26px Menlo, Monaco, 'DejaVu Sans Mono', 'Courier New', monospace; fill: #fff; fill-opacity: .16; }
+    .fade { animation: fadeUp 1.1s ease-out both; }
+    .fade.late { animation-delay: .45s; }
+    .float { animation: float 6s ease-in-out infinite; }
+    .float.b { animation-duration: 7.5s; animation-delay: -2s; }
+    .float.c { animation-duration: 9s; animation-delay: -4s; }
+    .drift { animation: drift 16s linear infinite; }
+    .drift.slow { animation-duration: 24s; animation-direction: reverse; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .float, .drift { animation: none; }
+    }
+  </style>
+
+  <!-- waves -->
+  <path class="drift slow" fill="url(#bgBack)" fill-opacity=".45" d="M0,206 Q150,176 300,206 T600,206 T900,206 T1200,206 T1500,206 T1800,206 T2100,206 T2400,206 L2400,0 L0,0 Z"/>
+  <path class="drift" fill="url(#bg)" d="M0,190 Q150,156 300,190 T600,190 T900,190 T1200,190 T1500,190 T1800,190 T2100,190 T2400,190 L2400,0 L0,0 Z"/>
+
+  <!-- floating code glyphs -->
+  <text class="glyph float" x="80" y="70">&lt;/&gt;</text>
+  <text class="glyph float b" x="1035" y="62">{ }</text>
+  <text class="glyph float c" x="180" y="150">=&gt;</text>
+  <text class="glyph float" x="985" y="148">#</text>
+  <text class="glyph float b" x="300" y="48">;</text>
+  <text class="glyph float c" x="880" y="40">( )</text>
+
+  <!-- text -->
+  <text class="title fade" x="600" y="98" text-anchor="middle">Hi, I'm Fen1x 👋</text>
+  <text class="subtitle fade late" x="600" y="142" text-anchor="middle">Full-stack &amp; Mobile Developer  ·  BMSTU student</text>
+</svg>
