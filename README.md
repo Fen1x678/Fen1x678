@@ -25,6 +25,7 @@
 - 📱 Building native **iOS** and **Android** apps with real-time computer vision
 - 🧩 Hard problems are a challenge I take on with pleasure
 - ⚡ I love turning complex algorithms into elegant, efficient code
+- 💼 **Open to** internships, remote work and freelance projects — reach me on [Telegram](https://t.me/Fen1x678)
 
 **What I do**
 
@@ -188,13 +189,20 @@
 ## 🎯 Current goals
 
 - [x] Build a full-stack web app: Django REST + React/TypeScript + Docker
-- [x] Release a mobile app for iOS and Android
-- [ ] Take GestureControl out of beta
-- [ ] Build an application with a microservice architecture
-- [ ] Go deeper into **Docker & Kubernetes**
+- [ ] Take **GestureControl** out of beta
+- [ ] Publish it on the **App Store**, **Google Play** and **RuStore**
+- [ ] Ship small apps that real users pay for
+- [ ] Get commercial experience: internship, remote job or freelance
 - [ ] Level up in **System Design**
-- [ ] Contribute to open-source projects
-- [ ] Launch my own SaaS product
+
+<details>
+<summary>🗂️ Later</summary>
+
+- Microservice architecture, **Docker & Kubernetes** — once a product has real load
+- My own SaaS product — GestureControl may grow into one
+- Contribute to open-source projects
+
+</details>
 
 ---
 
